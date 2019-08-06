@@ -18,7 +18,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Entity
-@Table(name="BT5_DETAILS")
+@Table(name="B5_DETAILS")
 public class SecurityDetails {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)

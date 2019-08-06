@@ -24,7 +24,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Entity
-@Table(name="BT5_STUDENT")
+@Table(name="B5_STUDENT")
 public class Student {
 	
 	@Id
